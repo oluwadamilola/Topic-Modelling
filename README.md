@@ -1,2 +1,2 @@
 # Topic-Modelling
-Causa Sentimental topics of financial news
+Causal Sentimental topics of financial news
